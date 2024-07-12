@@ -15,6 +15,6 @@ Utilizei o "ChatGPT" para gerar conteúdo informativo sobre o tema proposto, est
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Explorar as capacidades das IAs generativas na criação de conteúdos informativos evidencia sua aplicabilidade prática e inovadora. Essas tecnologias têm o potencial de transformar significativamente a maneira como adquirimos e compartilhamos conhecimento em diversas áreas.
 

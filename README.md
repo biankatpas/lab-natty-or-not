@@ -12,7 +12,7 @@ The ebook "From Home Office to Gym: The Importance of Physical Activity for IT P
 I used "ChatGPT" to generate informative content on the proposed topic, structure the content, and refine the ideas. Additionally, "Leonardo AI" was used to generate unique images for the ebook. Finally, the ebook was assembled in Google Docs.
 
 ## 🚀 Results
-Present the results of your project.
+[E-BOOK](./From%20Home%20Office%20to%20Gym%20-%20The%20Importance%20of%20Physical%20Activity%20for%20IT%20Professionals.pdf)
 
 ## 💭 Reflection
 Exploring the capabilities of generative AIs in creating informative content demonstrates their practical and innovative applicability. These technologies have the potential to significantly transform the way we acquire and share knowledge across various fields.

@@ -1,20 +1,18 @@
+# From Home Office to Gym: The Importance of Physical Activity for IT Professionals
 
-# Do Home Office à Academia: A Importância da Atividade Física para Profissionais de TI
+## 📒 Description
+The ebook "From Home Office to Gym: The Importance of Physical Activity for IT Professionals" was developed to highlight the benefits of physical activity, using generative AIs to explore and demonstrate their capabilities in creating informative content.
 
-## 📒 Descrição
-O ebook "Do Home Office à Academia: A Importância da Atividade Física para Profissionais de TI" foi desenvolvido para evidenciar os benefícios da atividade física, utilizando IAs generativas para explorar e demonstrar suas capacidades na criação de conteúdos informativos.
+## 🤖 Technologies Used
+- Generative AI **[ChatGPT](https://chat.openai.com)** for creating textual content;
+- Generative AI **[Leonardo AI](https://leonardo.ai)** for creating visual art;
+- Tool **Google Docs** for editing.
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para criação de conteúdo textual;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criação da arte visual;
-- Ferramenta **Google Docs** para edição.
+## 🧐 Creation Process
+I used "ChatGPT" to generate informative content on the proposed topic, structure the content, and refine the ideas. Additionally, "Leonardo AI" was used to generate unique images for the ebook. Finally, the ebook was assembled in Google Docs.
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para gerar conteúdo informativo sobre o tema proposto, estruturar o conteúdo e refinar as ideias. Como complemento, o "Leonardo AI" foi usado para gerar imagens exclusivas para o e-book. Para concluir, a montagem final do e-book foi feita no Google Docs.
+## 🚀 Results
+Present the results of your project.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão
-Explorar as capacidades das IAs generativas na criação de conteúdos informativos evidencia sua aplicabilidade prática e inovadora. Essas tecnologias têm o potencial de transformar significativamente a maneira como adquirimos e compartilhamos conhecimento em diversas áreas.
-
+## 💭 Reflection
+Exploring the capabilities of generative AIs in creating informative content demonstrates their practical and innovative applicability. These technologies have the potential to significantly transform the way we acquire and share knowledge across various fields.

@@ -1,6 +1,4 @@
-### Template
 
-```markdown
 # Do Home Office à Academia: A Importância da Atividade Física para Profissionais de TI
 
 ## 📒 Descrição
@@ -19,4 +17,4 @@ Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Explorar as capacidades das IAs generativas na criação de conteúdos informativos evidencia sua aplicabilidade prática e inovadora. Essas tecnologias têm o potencial de transformar significativamente a maneira como adquirimos e compartilhamos conhecimento em diversas áreas.
-```
+
